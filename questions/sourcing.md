@@ -19,3 +19,9 @@ The following are the questions we look forward from learning from you during th
 3. What level of data can be uploaded into the tool?
 4. What controls or rules need to be applied before data and reports are published for public consumption?
 5. What are potential challenges to getting the tool adopted in your State? 
+
+### Other sessions:
+
+- [Data Reporting](reporting.md)
+- [Data Glossary](glossary.md)
+

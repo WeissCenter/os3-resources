@@ -1,6 +1,6 @@
 [Back to questions](/os3-resources/questions/)
 
-# Glossary Breakout Session
+# Data Glossary Breakout Session
 
 ## We need your input:
 The following are the questions we look forward from learning from you during the breakout sessions.
@@ -23,3 +23,9 @@ The following are the questions we look forward from learning from you during th
 11. Are there organization’s internal permissions, etc.? 
 12. Should there be a review/panel/mediator before making changes? 
 13. What do you see as a benefit or challenge of having an I D E A data glossary that’s open to the users’ knowledge contributions?
+
+### Other sessions:
+
+- [Data Reporting](reporting.md)
+- [Data Sourcing](sourcing.md)
+

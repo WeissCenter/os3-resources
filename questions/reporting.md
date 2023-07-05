@@ -18,3 +18,9 @@ The following are the questions we look forward from learning from you during th
 10. What assistive technologies do you or your users use?
 11. What are the rules for suppression that need to be applied?
 12. What data are you sharing with researchers?
+
+### Other sessions:
+
+- [Data Glossary](glossary.md)
+- [Data Sourcing](sourcing.md)
+
