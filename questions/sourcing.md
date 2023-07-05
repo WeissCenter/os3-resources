@@ -1,4 +1,4 @@
-[back to questions folder](/questions/readme.md)
+[Back to questions](/os3-resources/questions/)
 
 # Data Sourcing Breakout Session
 
