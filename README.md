@@ -9,3 +9,5 @@ Please see the below resources for Weiss Center Open-Source Solution Stakeholder
 - [I D E A Indicator Overview](https://github.com/WeissCenter/os3-resources/raw/main/IDEAIndicatorOverview_v9.docx)
 - [Breakout Session Questions](https://weisscenter.github.io/os3-resources/questions/)
 - Evaluation Survey: Coming Soon
+
+Please let us know if you have any questions at contact@WeissTA.org.
