@@ -2,6 +2,8 @@
 # OS3 Meeting Resources
 Please see the below resources for Weiss Center Open Source Solution Stakeholder (OS3) Meetings.
 
+## Downloads
+
 - [Atlanta Agenda](https://github.com/WeissCenter/os3-resources/raw/3db4f7d931eb70168e436a2b7c9a617d48848492/Atlanta%20OS3%20Agenda.pdf)
 - [Atlanta Presentation PDF](https://github.com/WeissCenter/os3-resources/raw/f7634c9cad5b385dc20dbf100ed32603e268c6aa/OS3%20Atlanta%202023_6_18.pdf)
 - [Weiss Center Glossary](https://github.com/WeissCenter/os3-resources/raw/main/Weiss%20Center%20Glossary.pdf)
@@ -11,3 +13,11 @@ Please see the below resources for Weiss Center Open Source Solution Stakeholder
 - Evaluation Survey: Coming Soon
 
 Please let us know if you have any questions at contact@WeissTA.org.
+
+
+## Stay connected
+
+- Sign-up to participate in our [bi-weekly User Research](https://forms.office.com/r/0qubViMB0Z)
+- Sign up for our [quarterly newsletter](https://weissta.us21.list-manage.com/subscribe?u=0b94d35cfd81888df9e58f4e7&id=f4c57fe31e) and receive updates on our progress
+- Visit our [LinkedIn page](https://www.linkedin.com/company/rhonda-weiss-center/)
+- Visit [our website](https://www.weissta.org/)
