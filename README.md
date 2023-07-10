@@ -1,5 +1,5 @@
-# OS3 Meeting Resources
-Please see the below resources for Weiss Center Open Source Solution Stakeholder (OS3) Meetings.
+# Weiss Center Stakeholder Meeting Resources
+Please see the below resources for Weiss Center Open-Source Solution Stakeholder (OS3) Meetings.
 
 - [Atlanta Agenda](https://github.com/WeissCenter/os3-resources/raw/main/Atlanta%20OS3%20Agenda.docx)
 - [Atlanta Presentation PDF](https://github.com/WeissCenter/os3-resources/raw/f7634c9cad5b385dc20dbf100ed32603e268c6aa/OS3%20Atlanta%202023_6_18.pdf)
