@@ -1,3 +1,4 @@
+![Weiss Center Logo](https://github.com/WeissCenter/os3-resources/assets/138719250/63dbdc58-aff9-429a-864b-2e2c3b42fbfb)
 # Weiss Center Stakeholder Meeting Resources
 Please see the below resources for Weiss Center Open-Source Solution Stakeholder (OS3) Meetings.
 
