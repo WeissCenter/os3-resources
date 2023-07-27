@@ -11,7 +11,7 @@ Please see the below resources for Weiss Center Open Source Solution Stakeholder
 - [Acronym List and Definitions](https://github.com/WeissCenter/os3-resources/raw/main/Acronym%20List%20and%20Definitions.pdf)
 - [I D E A Indicator Overview](https://github.com/WeissCenter/os3-resources/raw/main/I%20D%20E%20A%20Indicator%20Overview.pdf)
 - [Breakout Session Questions](https://weisscenter.github.io/os3-resources/questions/)
-- [Evaluation Survey](https://www.research.net/r/Weiss-OSS-Survey-Atlanta): Survey will close by Tuesday, July 25th COB.
+- Evaluation Survey: Survey closed on July 26th.
 
 Please let us know if you have any questions at contact@WeissTA.org.
 
