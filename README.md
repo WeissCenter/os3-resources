@@ -9,7 +9,7 @@ Please see the below resources for Weiss Center Open Source Solution Stakeholder
 - [Atlanta Supplemental Presentation PDF: Assistive Technology and Computer Access](https://github.com/WeissCenter/os3-resources/raw/main/Assistive%20Technology%20and%20Computer%20Access%20Presentation.pdf) added on 7/12/2023
 - [Weiss Center Glossary](https://github.com/WeissCenter/os3-resources/raw/main/Weiss%20Center%20Glossary.pdf)
 - [Acronym List and Definitions](https://github.com/WeissCenter/os3-resources/raw/main/Acronym%20List%20and%20Definitions.pdf)
-- [I D E A Indicator Overview](https://github.com/WeissCenter/os3-resources/raw/main/I%20D%20E%20A%20Indicator%20Overview.pdf)
+- [IDEA Indicator Overview](https://github.com/WeissCenter/os3-resources/raw/main/I%20D%20E%20A%20Indicator%20Overview.pdf)
 - [Breakout Session Questions](https://weisscenter.github.io/os3-resources/questions/)
 - Evaluation Survey: Survey closed on July 26th.
 
